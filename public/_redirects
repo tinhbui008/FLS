@@ -1,0 +1,8 @@
+
+## Created with gatsby-plugin-netlify
+/capabilities/trading  /trading  302
+/capabilities/projects  /projects  302
+/capabilities/warehousing  /warehousing  302
+/capabilities/logistics  /logistics  302
+/using-ssr/  /.netlify/functions/__ssr  200
+\page-data\using-ssr\page-data.json  /.netlify/functions/__ssr  200

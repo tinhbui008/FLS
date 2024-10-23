@@ -1,0 +1,18 @@
+[
+    {
+        "functionRoute": "deploy",
+        "pluginName": "default-site-plugin",
+        "originalAbsoluteFilePath": "E:/dev/FLS-Gatsby-main/frontend/src/api/deploy.js",
+        "originalRelativeFilePath": "deploy.js",
+        "relativeCompiledFilePath": "deploy.js",
+        "absoluteCompiledFilePath": "E:\\dev\\FLS-Gatsby-main\\frontend\\.cache\\functions\\deploy.js"
+    },
+    {
+        "functionRoute": "newsletter",
+        "pluginName": "default-site-plugin",
+        "originalAbsoluteFilePath": "E:/dev/FLS-Gatsby-main/frontend/src/api/newsletter.js",
+        "originalRelativeFilePath": "newsletter.js",
+        "relativeCompiledFilePath": "newsletter.js",
+        "absoluteCompiledFilePath": "E:\\dev\\FLS-Gatsby-main\\frontend\\.cache\\functions\\newsletter.js"
+    }
+]
